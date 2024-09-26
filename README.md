@@ -6,12 +6,13 @@ This project automates an ETL pipeline for Amazon data using GCP services. The p
 
 
 ## Architecture Diagram
-![alt text](<New folder/include/images/Screenshot 2024-09-25 095147.png>)
+
 
 ## Data Quality Log Tabe
-![alt text](<New folder/include/images/Screenshot 2024-09-26 111224.png>)
+C:\Users\61403\Desktop\New folder\include\images\Screenshot 2024-09-25 095147.png
 
 ## Workflow
+C:\Users\61403\Desktop\New folder\include\images\Screenshot 2024-09-26 111224.png
 
 1. Upload Data: Amazon CSV is stored in Google Cloud Storage.
 2. Data Cleaning: Dataprep is used to clean and transform the data.
