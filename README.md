@@ -6,10 +6,13 @@ This project automates an ETL pipeline for Amazon data using GCP services. The p
 
 
 ## Architecture Diagram
-
+![Screenshot 2024-09-25 095147](https://github.com/user-attachments/assets/eb90aee3-ea1d-4c58-8953-dcfb0bcf9269)
 
 ## Data Quality Log Tabe
+![Screenshot 2024-09-26 111224](https://github.com/user-attachments/assets/e4880da7-c732-48bb-8009-99a26b5042b5)
 
+## Airflow Tasks
+![airflow](https://github.com/user-attachments/assets/223e9cfd-8c1b-412a-86c8-d4b4dfcd797d)
 
 ## Workflow
 
